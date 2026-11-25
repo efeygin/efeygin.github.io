@@ -8,13 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-   - title: "Research"
+  - title: "Research"
     url: /research/
 
-   - title: "Outreach & Service"
+  - title: "Outreach & Service"
     url: /outreach/
-   
-   - title: "CV"
+
+  - title: "CV"
     url: /cv/
     
 #  - title: "Talks"
