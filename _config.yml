@@ -15,7 +15,7 @@ repository: "efeygin/efeygin.github.io"
 # Sidebar information
 # Blank fields will not display.
 author:
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: *name
   pronouns:
   bio: ""
